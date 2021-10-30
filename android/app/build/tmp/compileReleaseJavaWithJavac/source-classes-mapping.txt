@@ -1,0 +1,9 @@
+com/testbokus/MainActivity.java
+ com.testbokus.MainActivity
+com/testbokus/BuildConfig.java
+ com.testbokus.BuildConfig
+com/testbokus/MainApplication.java
+ com.testbokus.MainApplication
+ com.testbokus.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

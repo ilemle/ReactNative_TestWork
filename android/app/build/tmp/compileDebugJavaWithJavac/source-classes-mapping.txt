@@ -1,0 +1,14 @@
+com/testbokus/MainActivity.java
+ com.testbokus.MainActivity
+com/testbokus/BuildConfig.java
+ com.testbokus.BuildConfig
+com/testbokus/ReactNativeFlipper.java
+ com.testbokus.ReactNativeFlipper
+ com.testbokus.ReactNativeFlipper$1
+ com.testbokus.ReactNativeFlipper$2
+ com.testbokus.ReactNativeFlipper$2$1
+com/testbokus/MainApplication.java
+ com.testbokus.MainApplication
+ com.testbokus.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
